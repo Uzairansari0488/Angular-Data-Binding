@@ -1,0 +1,19 @@
+#image-container img {
+    display: none;
+    max-width: 60%; /*Width of the image*/
+    margin-top: 60px;
+}
+img {
+    border: 3px solid #fa000d; /* 3px wide solid Red border */
+    border-radius: 8px;    
+  }
+  
+.Dimensions{
+    width: 75vh;   /*Width of the image*/
+    height: 75vh;   /*height of the image*/
+}
+
+h1{
+    text-align: center ; /*To align the h1 content in center*/
+}
+
